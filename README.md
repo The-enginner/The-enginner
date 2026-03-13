@@ -1,15 +1,18 @@
 <h1>Hi There, I'm Mohammed Najeeb Al-Hafizi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 I'm a **Front-End Developer** passionate about building responsive, interactive, and user-friendly web applications.  
-I mainly work with **HTML**, **CSS**, and **JavaScript**, and I'm currently learning **React** to build more modern and dynamic user interfaces.  
-I also have background knowledge in **C++** and **Python**, and I'm planning to move into **Back-End Development** soon to become a more complete developer.  
-In addition, I have experience using **Microsoft Office Tools** such as **Excel**, **PowerPoint**, and **Word** for data organization, reporting, and presentations.
+I specialize in building modern web interfaces using **HTML**, **CSS**, **JavaScript**, and **React**.  
+I also have background knowledge in **Python** and **C++**, and I’m expanding my development skills toward **Back-End Development** to become a full-stack developer.
+
+In addition, I have experience using **Microsoft Office Tools** such as **Excel**, **PowerPoint**, and **Word** for data analysis, reporting, and professional presentations.
 
 I'm open to collaborating on interesting projects, whether they are personal, open-source, or client-based.
 
+---
+
 ## Skill Set :muscle:
 
-These are some of the major technologies and tools that I use or have experience with:
+These are some of the major technologies and tools that I use:
 
 ### Programming Languages
 
@@ -20,12 +23,6 @@ These are some of the major technologies and tools that I use or have experience
 
 <img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">
 |--|
-
-### Currently Learning
-
-- React
-- Modern Front-End Development
-- Back-End Development Fundamentals
 
 ### Tools
 
@@ -42,14 +39,17 @@ These are some of the major technologies and tools that I use or have experience
 ## Some of my stats :bar_chart:
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true">  
+
 <br>
 
 ## Let's Connect :handshake:
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>  
+
 <br>
 
 ### Here is a random meme for you, to make your day better
+
 (*PS: Refresh the page to see a new meme* :wink: )
 
 <a href="https://github.com/techytushar/random-memer"><img src='https://web-production-4cea.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
