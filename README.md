@@ -1,27 +1,42 @@
 <h1>Hi There, I'm Mohammed Najeeb Al-Hafizi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 I'm a **Front-End Developer** passionate about building responsive, interactive, and user-friendly web applications.  
-I mainly work with **HTML**, **CSS**, and **JavaScript**, and I also have background knowledge in **C++**, **Java**, and **Python**.  
+I mainly work with **HTML**, **CSS**, and **JavaScript**, and I'm currently learning **React** to build more modern and dynamic user interfaces.  
+I also have background knowledge in **C++** and **Python**, and I'm planning to move into **Back-End Development** soon to become a more complete developer.  
+In addition, I have experience using **Microsoft Office Tools** such as **Excel**, **PowerPoint**, and **Word** for data organization, reporting, and presentations.
+
 I'm open to collaborating on interesting projects, whether they are personal, open-source, or client-based.
 
 ## Skill Set :muscle:
 
-These are some of the major technologies that I use or have experience with:
+These are some of the major technologies and tools that I use or have experience with:
 
-**Programming Languages**
+### Programming Languages
 
-<img title="HTML5" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">|<img title="CSS3" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">|<img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">
-|--|--|--|--|--|--|
+<img title="HTML5" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">|<img title="CSS3" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">|<img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">
+|--|--|--|--|--|
 
-**Libraries and Frameworks**
+### Libraries and Frameworks
 
 <img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">
 |--|
 
-**Tools**
+### Currently Learning
+
+- React
+- Modern Front-End Development
+- Back-End Development Fundamentals
+
+### Tools
 
 <img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="Windows" alt="Windows" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png">|<img title="Figma" alt="Figma" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png">
 |--|--|--|--|--|
+
+### Microsoft Office Tools
+
+<img title="Microsoft Excel" alt="Microsoft Excel" width="40px" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png">|<img title="Microsoft PowerPoint" alt="Microsoft PowerPoint" width="40px" src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png">|<img title="Microsoft Word" alt="Microsoft Word" width="40px" src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png">
+|--|--|--|
+
 <br>
 
 ## Some of my stats :bar_chart:
